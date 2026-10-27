@@ -9,6 +9,8 @@ while True:
         break
     elif chon ==1:
         print("Nhập thông tin sách")
+        tensach = input("Nhập tên sách:")
+        tacgia = input("Nhập tác giả:")
     elif chon ==2:
         print("Mượn sách")
     elif chon==3:
